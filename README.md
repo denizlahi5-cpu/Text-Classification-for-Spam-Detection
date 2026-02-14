@@ -41,7 +41,8 @@ The model was evaluated using:
    - Precision
    - Recall
    - F1-score
-A confusion matrix was generated to visualize the classification results.
+ 
+ A confusion matrix was generated to visualize the classification results.
 
 ## Results
 
