@@ -37,11 +37,10 @@ A Gaussian Naive Bayes classifier was trained on the training data.
 
 The model was evaluated using:
 
--Accuracy
--Precision
--Recall
--F1-score
-
+   - Accuracy
+   - Precision
+   - Recall
+   - F1-score
 A confusion matrix was generated to visualize the classification results.
 
 ## Results
