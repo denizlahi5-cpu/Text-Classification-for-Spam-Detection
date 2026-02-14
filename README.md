@@ -28,9 +28,5 @@ The model achieves approximately 80–85% accuracy depending on data split.
 - Seaborn
 
 ## How to Run
-
-1. Install dependencies:
-   pip install -r requirements.txt
-
-2. Run the script:
-   python spam_detection.py
+Run the python script
+  
